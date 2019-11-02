@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="fajer_color1">#cac531</color>
+    <color name="fajer_color2">#f3f9a7</color>
+
+    <color name="duhher_color1">#d74177</color>
+    <color name="duhher_color2">#ffe98a</color>
+
+    <color name="asser_color1">#f1eab9</color>
+    <color name="asser_color2">#ff8c8c</color>
+
+    <color name="mogreb_color1">#d8b5ff</color>
+    <color name="mogreb_color2">#1eae98</color>
+
+    <color name="esha_color1">#38adae</color>
+    <color name="esha_color2">#cd295a</color>
+
+    <color name="disable_color1">#fff</color>
+    <color name="disable_color2">#000</color>
+
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "484695075652",
+    "firebase_url": "https://prayer-tracker-6347e.firebaseio.com",
+    "project_id": "prayer-tracker-6347e",
+    "storage_bucket": "prayer-tracker-6347e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484695075652:android:954ac429cd07b069a68511",
+        "android_client_info": {
+          "package_name": "com.firasshawa.prayertracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484695075652-pe70ha9qm9vgf7fgcupsp3lp0q48qcif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firasshawa.prayertracker",
+            "certificate_hash": "d73bb02d91912203dd13365458eee0a2a53fcd51"
+          }
+        },
+        {
+          "client_id": "484695075652-iao1isfom4ofdqbbceejp3erfm5f961i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaBbWjdXVS2VSht3Lezee9fH9DuQT88DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484695075652-iao1isfom4ofdqbbceejp3erfm5f961i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
